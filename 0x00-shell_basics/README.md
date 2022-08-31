@@ -1,2 +1,2 @@
 #!/bin/bash
-shell basics
+the readme file for the shell basics directory
