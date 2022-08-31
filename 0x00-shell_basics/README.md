@@ -1,2 +1,2 @@
 #!/bin/bash
-ls display list of directories
+cd~ changes the working directory to the user home directory
