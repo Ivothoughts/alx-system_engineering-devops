@@ -1,2 +1,2 @@
 #!/bin/bash
-ls display list of directories
+pwd print abosolute pathname
