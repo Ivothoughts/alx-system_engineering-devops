@@ -1,2 +1,2 @@
 #!/bin/bash
-script that prints "hello world"
+a script that Display the content of the /etc/passwd file.
