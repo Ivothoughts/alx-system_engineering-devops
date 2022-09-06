@@ -1,0 +1,5 @@
+#!/bin/bash
+vi $@
+git add $@
+git commit
+git push
